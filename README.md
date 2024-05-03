@@ -6,6 +6,10 @@ I'm a 3rd year pursuing a Bachelors of Science in Computer Science, with Co-op. 
 🙋🏻 Hi! I am a university student who's been involved with technology, and more specifically, robotics, for over 8 years. I will be specializing in design and back-end development. I like to spend my time indulging in my hobbies, ranging from more physically demeanding activities such as football, or a relaxing sketching session. I'm also thoroughly involved in the community whether it be through clubs, hackathons, or volunteer activities!
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ali_mujtaba.143/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-mujtaba-ahmed-8a017b246/) 
+
+
 ## My Skillsets
 I aim to specialize in back-end development, AI and ML! My favourites tools to work with include, Java, Python, SQL and C.
 
@@ -78,7 +82,6 @@ I aim to specialize in back-end development, AI and ML! My favourites tools to w
 👧🏻💻 I'm Currently Working on...  
 ⭐ My Personal Website - Coming Soon  
 ⭐ A Google Chrome Extension - Coming Soon  
-⭐ Polishing my D3.js and Animation skills  
 
 
 <div align="center" margin-top="5px">
