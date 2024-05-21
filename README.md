@@ -12,14 +12,10 @@ I'm a 3rd year pursuing a Bachelors of Science in Computer Science, with Co-op. 
 
 ## My Skillsets
 I aim to specialize in back-end development, AI and ML! My favourites tools to work with include, Java, Python, SQL and C.
-
 <br>
 
 <hr>
 
-👧🏻💻 I'm Currently Working on...  
-⭐ My Personal Website - Coming Soon  
-⭐ A Google Chrome Extension - Coming Soon  
 
 
 <div align="center" margin-top="5px">
